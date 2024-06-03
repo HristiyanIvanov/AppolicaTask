@@ -1,0 +1,16 @@
+{
+  "name": "appolicatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
